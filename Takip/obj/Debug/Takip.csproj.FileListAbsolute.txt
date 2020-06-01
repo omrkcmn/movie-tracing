@@ -1,0 +1,11 @@
+E:\VisualProjects\Takip\Takip\bin\Debug\Takip.exe.config
+E:\VisualProjects\Takip\Takip\bin\Debug\Takip.exe
+E:\VisualProjects\Takip\Takip\bin\Debug\Takip.pdb
+E:\VisualProjects\Takip\Takip\obj\Debug\Takip.csprojAssemblyReference.cache
+E:\VisualProjects\Takip\Takip\obj\Debug\Takip.Form1.resources
+E:\VisualProjects\Takip\Takip\obj\Debug\Takip.Properties.Resources.resources
+E:\VisualProjects\Takip\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+E:\VisualProjects\Takip\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+E:\VisualProjects\Takip\Takip\obj\Debug\Takip.exe
+E:\VisualProjects\Takip\Takip\obj\Debug\Takip.pdb
+E:\VisualProjects\Takip\Takip\obj\Debug\Takip.Torrent.resources
